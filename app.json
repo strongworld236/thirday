@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "sang",
   "description": "petry",
   "keywords": [
@@ -7,16 +7,16 @@
   "env": {
     "PROTOCOL": {
       "description": "vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "strongworld236",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
+      "description": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html",
       "value": "/ray",
       "required": true
     }
