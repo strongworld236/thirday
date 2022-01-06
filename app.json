@@ -1,12 +1,12 @@
 ﻿{
-  "name": "随便",
-  "description": "随便",
+  "name": "sang",
+  "description": "petry",
   "keywords": [
-    "随便"
+    "words"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "vless",
       "value": "vmess",
       "required": true
     },
