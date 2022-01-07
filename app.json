@@ -7,11 +7,11 @@
   "env": {
     "PROTOCOL": {
       "description": "vless",
-      "value": "vless",
+      "value": "vmess",
       "required": true
     },
     "UUID": {
-      "description": "strongworld236",
+      "description": "58adafc6-6ab1-4cf4-bfc7-42c7ffa7e06e",
       "value": "",
       "required": false
     },
